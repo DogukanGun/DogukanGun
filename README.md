@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dogukan Ali Gundogan</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Spring , React**
+- 🌱 I’m currently learning **Data Science , Tenserflow on Android**
 
-- 💬 Ask me about **.NET , Swift , Kotlin**
+- 💬 Ask me about **Spring , Swift , Flutter , Kotlin**
 
 - 📫 How to reach me **dogukangundogan5@gmail.com**
 
