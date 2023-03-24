@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogukan Ali Gundogan</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Data Science , Tenserflow on Android**
+- 🌱 I’m currently learning **DeFi, Blockchain**
 
 - 💬 Ask me about **Spring , Swift , Flutter , Kotlin**
 
