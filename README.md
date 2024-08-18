@@ -22,10 +22,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Wallet Connection for Android](https://medium.com/@dogukangundogan5/wallet-connection-for-android-28142a0f441f?source=rss-3a8febe4e8c5------2)
 - [Dependency Injection for Jetpack Compose](https://medium.com/@dogukangundogan5/dependency-injection-for-jetpack-compose-baaa29126ad2?source=rss-3a8febe4e8c5------2)
 - [Google Maps Android Integration](https://medium.com/@dogukangundogan5/google-maps-android-integration-bf94c69bad95?source=rss-3a8febe4e8c5------2)
 - [Going Back — OnBackPressed or OnKeyDown](https://medium.com/@dogukangundogan5/going-back-onbackpressed-or-onkeydown-7ad3c299f3e0?source=rss-3a8febe4e8c5------2)
-- [Correlation Analysis](https://medium.com/@dogukangundogan5/correlation-analysis-52219c2b1b24?source=rss-3a8febe4e8c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
